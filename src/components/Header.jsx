@@ -50,7 +50,7 @@ const Header = props => {
   );
 }
 
-Header.PropTypes = {
+Header.propTypes = {
   user: PropTypes.object
 }
 
